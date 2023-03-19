@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saptajit Banerjee</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="right" alt="Coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **saptajitbanerjee2002@gmail.com**
