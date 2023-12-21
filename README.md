@@ -1,20 +1,55 @@
-<h1 align="center">Hi 👋, I'm Saptajit Banerjee</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-- 🌱 I’m currently learning **React**
+# IoT Home Automation and Security System
 
-- 📫 How to reach me **saptajitbanerjee2002@gmail.com**
+## Abstract
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-cUCtjKuxWtIY-IGK3S99ffhYy0NjKO_IN65dLmXiZw/edit?usp=sharing](https://docs.google.com/document/d/1-cUCtjKuxWtIY-IGK3S99ffhYy0NjKO_IN65dLmXiZw/edit?usp=sharing)
+In today's fast-paced world, individuals often struggle to balance their professional and household responsibilities. This project aims to simplify household chores and enhance security by proposing a system that automates specific tasks and safeguards the home against intruders.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saptajit-banerjee-638791205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saptajit-banerjee-638791205" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atheon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atheon" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saptajitbanerjee2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saptajitbanerjee2002" height="30" width="40" /></a>
-</p>
+The proposed system allows users to remotely control devices using a dedicated mobile app, communicating with the system through the HTTP protocol. This interaction requires both the mobile device and the system to be connected to the same WLAN.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Additionally, a Passive Infrared (PIR) sensor enhances security. If an intruder is detected, the PIR sensor notifies the system, which, in turn, alerts the user through the mobile app and their Gmail account.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saptajitbanerjee&show_icons=true&locale=en&layout=compact" alt="saptajitbanerjee" /></p>
+## Introduction
+
+The project involves a Raspberry Pi 4 Model B, a circuit with LEDs on a breadboard, and a smartphone app. The Raspberry Pi controls the circuit via GPIO pins, and an HTTP server on the Pi serves wireless requests from the smartphone. The circuit comprises 4 LEDs and 1 PIR sensor.
+
+The mobile app features various buttons, each generating distinct HTTP requests. These requests instruct the HTTP server to perform specific actions. The app communicates the Raspberry Pi's intended actions when buttons are pressed.
+
+The "Enable Security" button activates the PIR sensor. If motion is detected, the Raspberry Pi activates the 4th LED and sends an email alert to the user, including the intrusion time and date. The "Disable Security" button turns off the 4th LED.
+
+## Hardware and Software Requirements
+
+### Hardware Requirements
+- Raspberry Pi 4 Model B (2GB RAM)
+- Smartphone
+- PIR Sensor
+- LEDs
+- Breadboard
+- Jumper Wires
+- Micro SD Card
+- Multi-Format Card Reader
+- Ethernet Cable
+
+### Software Requirements
+- PuTTy
+- Raspberry Pi Imager
+- VNC Viewer
+- Kodular App Inventor
+- Android OS
+- Raspbian OS
+- Python
+
+## Results and Discussion
+
+- Users can wirelessly control and communicate with the system through the mobile app.
+- The mobile app allows remote switching of devices within the circuit.
+- System status can be monitored through emails sent to the user's Gmail account, triggered by the Raspberry Pi.
+
+## Conclusion
+
+The efficiency of the HTTP protocol in IoT applications, such as Home Automation, is evident in this project. Implementing the HTTP protocol requires an active HTTP server in the IoT system's controller service.
+
+For successful communication, devices in the IoT system and user devices must send HTTP requests to the controller device, each request containing the controller device's IPv4 address.
+
+The SMTP protocol is employed for system status notifications, sent to users via email.
+
+In cases where WiFi is unavailable, communication remains possible by connecting user smartphones to the IoT system's controller device through Mobile Hotspot or Bluetooth.
