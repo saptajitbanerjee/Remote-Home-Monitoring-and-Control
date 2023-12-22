@@ -41,6 +41,12 @@ The "Enable Security" button activates the PIR sensor. If motion is detected, th
 ### Block Diagram
 ![Block Diagram](https://github.com/saptajitbanerjee/Remote-Home-Monitoring-and-Control/blob/main/Block%20Diagram.png)
 
+### Flow Diagram
+![Flow Diagram](https://github.com/saptajitbanerjee/Remote-Home-Monitoring-and-Control/blob/main/Flow%20Diagram.png)
+
+### Circuit
+![Photo of the circuit](https://github.com/saptajitbanerjee/Remote-Home-Monitoring-and-Control/blob/main/Circuit%202.png)
+
 ## Results and Discussion
 
 - Users can wirelessly control and communicate with the system through the mobile app.
