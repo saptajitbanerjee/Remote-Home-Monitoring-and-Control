@@ -53,7 +53,7 @@ The "Enable Security" button activates the PIR sensor. If motion is detected, th
 - The mobile app allows remote switching of devices within the circuit.
 - System status can be monitored through emails sent to the user's Gmail account, triggered by the Raspberry Pi.
 
-[![Video Demo](https://github.com/saptajitbanerjee/Remote-Home-Monitoring-and-Control/blob/main/Circuit%202.png)](https://github.com/saptajitbanerjee/Remote-Home-Monitoring-and-Control/blob/main/IoT-1/RHMC%20Project.mp4)
+[Watch the Project Demo](https://github.com/saptajitbanerjee/Remote-Home-Monitoring-and-Control/blob/main/IoT-1/RHMC%20Project.mp4)
 
 ## Conclusion
 
