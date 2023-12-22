@@ -38,6 +38,9 @@ The "Enable Security" button activates the PIR sensor. If motion is detected, th
 - Raspbian OS
 - Python
 
+### Block Diagram
+![Block Diagram](https://github.com/saptajitbanerjee/AWS-IoT-Weather-Monitoring-System/App 1.png)
+
 ## Results and Discussion
 
 - Users can wirelessly control and communicate with the system through the mobile app.
